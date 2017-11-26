@@ -1,5 +1,5 @@
 # LINE TCR 
-Edited by RashiF
+Self bot
 
 ## Require to install
 ```
