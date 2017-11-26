@@ -1,7 +1,5 @@
-# LINE TCR
-Forked from LINEALPHA [MerkKremont]
-
-fixing some error and delete unusable code 
+# LINE TCR 
+Edited by RashiF
 
 ## Require to install
 ```
